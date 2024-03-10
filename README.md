@@ -1,4 +1,4 @@
-# AIE-Midterm-RAG
+# AIE Midterm RAG
 Midterm Certification Challenge: RAG 
 
 ##Deliverables:
