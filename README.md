@@ -17,5 +17,4 @@ Evaluate your answers to the following questions:
 * Record <10 min loom video walkthrough
 * Extra Credit: Deploy to public URL on HF with Chainlit front end
 
-### Share 🚀
-Share lessons not yet learned in #aie1-general
+
