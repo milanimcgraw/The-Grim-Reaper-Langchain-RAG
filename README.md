@@ -1,7 +1,7 @@
 # 🤖 The Grim Reaper - Langchain RAG 
 Midterm Certification Challenge: RAG
 
-In this repo, you'll find a pretty entertaining RAG application, using Langchain, OpenAI, text-3-embedding small, GPT-3.5-turbo, the FAISS vectorstore, and an extra component: visibility tooling with WandB. This project was done during the middle  of AI Makerspace's AI Engineering Bootcamp Cohort 1 (AIE1).
+In this repo, you'll find a pretty entertaining RAG application, using Langchain, OpenAI, text-3-embedding small, GPT-3.5-turbo, the FAISS vectorstore, and an extra component: visibility tooling with WandB. 
 
 ### ⚙️The colab link to the code is found and (will also be included in this repo) [here.](https://colab.research.google.com/drive/1UeAe2jHXoRh310HGA9iueJnUcYhQ3Cbl?usp=sharing)
 
