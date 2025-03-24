@@ -1,7 +1,6 @@
 # 🤖 The Grim Reaper - Langchain RAG 
-Midterm Certification Challenge: RAG
 
-In this repo, you'll find a pretty entertaining RAG application, using Langchain, OpenAI, text-3-embedding small, GPT-3.5-turbo, the FAISS vectorstore, and an extra component: visibility tooling with WandB. 
+In this repo, you'll find a pretty entertaining RAG application the can be used for talking to any data set, using Langchain, OpenAI, text-3-embedding small, GPT-3.5-turbo, the FAISS vectorstore, and an extra component: visibility tooling with WandB. In this notebook, we'll use the NVIDIA 10-k Filings and ask "The Grim Reaper" some questions. 
 
 ### ⚙️The colab link to the code is found and (will also be included in this repo) [here.](https://colab.research.google.com/drive/1UeAe2jHXoRh310HGA9iueJnUcYhQ3Cbl?usp=sharing)
 
@@ -14,11 +13,6 @@ In this repo, you'll find a pretty entertaining RAG application, using Langchain
 * Model: OpenAI text-3-embedding small, GPT-3.5-turbo
 * Tooling: LangChain or LlamaIndex (option to choose)
 * Vector Store: FAISS
-* Additional Component: Add one of the following: 1) visibility with WandB OR 2) evaluation with RAGAS
-
-### Evaluate 🚢
-Evaluate your answers to the following questions:
-* "Who is the E-VP, Operations - and how old are they?"
-* "What is the gross carrying amount of Total Amortizable Intangible Assets for Jan 29, 2023?"
+* Visibility: WandB
 
 
